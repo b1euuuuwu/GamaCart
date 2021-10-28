@@ -1,5 +1,5 @@
 # GamaCart
-Is a final project made by me and several other students to complete the requirement to pass my University's programming class
+Is a final project made by me and several other students to complete the requirement to pass my University's Programming 1 class
 
 This project aims to test my understanding in C++ programming and teach me how to collaborate with others on a project
 
